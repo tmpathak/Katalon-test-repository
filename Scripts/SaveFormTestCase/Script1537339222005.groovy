@@ -27,5 +27,3 @@ WebUI.check(findTestObject('SaveForm_OR/Page_Execute Automation/Page_Execute Aut
 
 WebUI.click(findTestObject('SaveForm_OR/Page_Execute Automation/input_EnglishHindi_Save'))
 
-WebUI.closeBrowser()
-

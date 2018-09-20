@@ -4,7 +4,7 @@
    <name>SaveForm</name>
    <tag></tag>
    <isRerun>false</isRerun>
-   <lastRun>2018-09-20T12:27:57</lastRun>
+   <lastRun>2018-09-20T12:31:54</lastRun>
    <mailRecipient></mailRecipient>
    <numberOfRerun>0</numberOfRerun>
    <pageLoadTimeout>30</pageLoadTimeout>
@@ -28,5 +28,11 @@
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/SaveFormTestCase</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>7ddabad7-42ae-44c6-8289-aa068b4bcb8f</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/CloseBrowser</testCaseId>
    </testCaseLink>
 </TestSuiteEntity>
