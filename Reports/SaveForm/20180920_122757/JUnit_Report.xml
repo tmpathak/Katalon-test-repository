@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="SaveForm" time="8" tests="3" failures="0" errors="0">
+   <testsuite name="SaveForm" tests="3" failures="0" errors="0" time="8" timestamp="2018-09-20 12:27:59" hostname="TrilokP - exIndPC20.exsilio.int" id="Test Suites/SaveForm">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Trilok\\Projects\\Code\\Katalon\\Katalon-test-repository\\Reports\\SaveForm\\20180920_122757"/>
+         <property name="logFiles" value="C:\\Trilok\\Projects\\Code\\Katalon\\Katalon-test-repository\\Reports\\SaveForm\\20180920_122757\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="TrilokP - exIndPC20.exsilio.int"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="5.7.1.1"/>
+         <property name="browser" value="Chrome 68.0.3440.106"/>
+         <property name="hostAddress" value="10.0.6.120"/>
+         <property name="sessionId" value="b0eca27ebdd85c79c725dac59f0adab1"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/Login/LoginTestCase" classname="Test Cases/Login/LoginTestCase" status="PASSED">
+         <system-out><![CDATA[2018-09-20 12:27:59 - [TEST_CASE][PASSED] - Test Cases/Login/LoginTestCase: Test Cases/Login/LoginTestCase
+
+2018-09-20 12:27:59 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: 'http://executeautomation.com/demosite/Login.html'
+
+2018-09-20 12:28:03 - [MESSAGE][PASSED] - Browser is opened with url: 'http://executeautomation.com/demosite/Login.html'
+
+2018-09-20 12:28:03 - [TEST_STEP][PASSED] - setText: Text 'Admin' is set on object 'Object Repository/Login_OR/Page_Execute Automation/input_Login_UserName'
+
+2018-09-20 12:28:03 - [MESSAGE][PASSED] - Text 'Admin' is set on object 'Object Repository/Login_OR/Page_Execute Automation/input_Login_UserName'
+
+2018-09-20 12:28:03 - [TEST_STEP][PASSED] - setText: Text 'Admin' is set on object 'Object Repository/Login_OR/Page_Execute Automation/input_Login_Password'
+
+2018-09-20 12:28:03 - [MESSAGE][PASSED] - Text 'Admin' is set on object 'Object Repository/Login_OR/Page_Execute Automation/input_Login_Password'
+
+2018-09-20 12:28:03 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Login_OR/Page_Execute Automation/input_Login_Login' is clicked on
+
+2018-09-20 12:28:04 - [MESSAGE][PASSED] - Object: 'Object Repository/Login_OR/Page_Execute Automation/input_Login_Login' is clicked on
+
+2018-09-20 12:28:04 - [TEST_STEP][PASSED] - verifyTextPresent: Text 'Execute Automation Selenium Test Site' is present on page 
+
+2018-09-20 12:28:04 - [MESSAGE][PASSED] - Text 'Execute Automation Selenium Test Site' is present on page 
+
+2018-09-20 12:28:04 - [TEST_STEP][PASSED] - waitForPageLoad: Wait for page load successfully
+
+2018-09-20 12:28:04 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2018-09-20 12:28:04 - [MESSAGE][PASSED] - Wait for page load successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/MaximizeBrowser" classname="Test Cases/MaximizeBrowser" status="PASSED">
+         <system-out><![CDATA[2018-09-20 12:28:04 - [TEST_CASE][PASSED] - Test Cases/MaximizeBrowser: Test Cases/MaximizeBrowser
+
+2018-09-20 12:28:04 - [TEST_STEP][PASSED] - maximizeWindow: Current window maximized
+
+2018-09-20 12:28:05 - [MESSAGE][PASSED] - Current window maximized]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/SaveFormTestCase" classname="Test Cases/SaveFormTestCase" status="PASSED">
+         <system-out><![CDATA[2018-09-20 12:28:05 - [TEST_CASE][PASSED] - Test Cases/SaveFormTestCase: Test Cases/SaveFormTestCase
+
+2018-09-20 12:28:05 - [TEST_STEP][PASSED] - selectOptionByValue: All options with value '1' are selected in object 'Object Repository/SaveForm_OR/Page_Execute Automation/select_SelectMr.Ms.' 
+
+2018-09-20 12:28:05 - [MESSAGE][PASSED] - All options with value '1' are selected in object 'Object Repository/SaveForm_OR/Page_Execute Automation/select_SelectMr.Ms.' 
+
+2018-09-20 12:28:05 - [TEST_STEP][PASSED] - setText: Text 'Pathak' is set on object 'Object Repository/SaveForm_OR/Page_Execute Automation/input_Initial_Initial'
+
+2018-09-20 12:28:06 - [MESSAGE][PASSED] - Text 'Pathak' is set on object 'Object Repository/SaveForm_OR/Page_Execute Automation/input_Initial_Initial'
+
+2018-09-20 12:28:06 - [TEST_STEP][PASSED] - setText: Text 'Trilok' is set on object 'Object Repository/SaveForm_OR/Page_Execute Automation/input__FirstName'
+
+2018-09-20 12:28:06 - [MESSAGE][PASSED] - Text 'Trilok' is set on object 'Object Repository/SaveForm_OR/Page_Execute Automation/input__FirstName'
+
+2018-09-20 12:28:06 - [TEST_STEP][PASSED] - setText: Text 'Manu Bhai.' is set on object 'Object Repository/SaveForm_OR/Page_Execute Automation/input_Middle Name_MiddleName'
+
+2018-09-20 12:28:06 - [MESSAGE][PASSED] - Text 'Manu Bhai.' is set on object 'Object Repository/SaveForm_OR/Page_Execute Automation/input_Middle Name_MiddleName'
+
+2018-09-20 12:28:06 - [TEST_STEP][PASSED] - check: Object 'Object Repository/SaveForm_OR/Page_Execute Automation/Page_Execute Automation/input_EnglishHindi_english' is checked
+
+2018-09-20 12:28:06 - [MESSAGE][PASSED] - Object 'Object Repository/SaveForm_OR/Page_Execute Automation/Page_Execute Automation/input_EnglishHindi_english' is checked
+
+2018-09-20 12:28:06 - [TEST_STEP][PASSED] - check: Object 'Object Repository/SaveForm_OR/Page_Execute Automation/Page_Execute Automation/input_EnglishHindi_Hindi' is checked
+
+2018-09-20 12:28:06 - [MESSAGE][PASSED] - Object 'Object Repository/SaveForm_OR/Page_Execute Automation/Page_Execute Automation/input_EnglishHindi_Hindi' is checked
+
+2018-09-20 12:28:06 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/SaveForm_OR/Page_Execute Automation/input_EnglishHindi_Save' is clicked on
+
+2018-09-20 12:28:06 - [MESSAGE][PASSED] - Object: 'Object Repository/SaveForm_OR/Page_Execute Automation/input_EnglishHindi_Save' is clicked on
+
+2018-09-20 12:28:06 - [TEST_STEP][PASSED] - closeBrowser: Browser is closed
+
+2018-09-20 12:28:07 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2018-09-20 12:27:59 - [TEST_SUITE][PASSED] - SaveForm: Test Cases/SaveFormTestCase]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

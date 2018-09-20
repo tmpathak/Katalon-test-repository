@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-09-20T12:21:03</date>
+  <millis>1537426263271</millis>
+  <sequence>0</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>startSuite</method>
+  <thread>1</thread>
+  <message>Start Test Suite : Test Suites/SaveForm</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="name">SaveForm</property>
+  <property name="description"></property>
+  <property name="id">Test Suites/SaveForm</property>
+</record>
+<record>
+  <date>2018-09-20T12:21:03</date>
+  <millis>1537426263293</millis>
+  <sequence>1</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Logging run data &amp;apos;hostName&amp;apos; with value &amp;apos;TrilokP - exIndPC20.exsilio.int&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="hostName">TrilokP - exIndPC20.exsilio.int</property>
+</record>
+<record>
+  <date>2018-09-20T12:21:03</date>
+  <millis>1537426263295</millis>
+  <sequence>2</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Logging run data &amp;apos;os&amp;apos; with value &amp;apos;Windows 10 64bit&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="os">Windows 10 64bit</property>
+</record>
+<record>
+  <date>2018-09-20T12:21:03</date>
+  <millis>1537426263296</millis>
+  <sequence>3</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Logging run data &amp;apos;hostAddress&amp;apos; with value &amp;apos;10.0.6.120&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="hostAddress">10.0.6.120</property>
+</record>
+<record>
+  <date>2018-09-20T12:21:03</date>
+  <millis>1537426263297</millis>
+  <sequence>4</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Logging run data &amp;apos;katalonVersion&amp;apos; with value &amp;apos;5.7.1.1&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="katalonVersion">5.7.1.1</property>
+</record>
+<record>
+  <date>2018-09-20T12:21:03</date>
+  <millis>1537426263550</millis>
+  <sequence>5</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>startTest</method>
+  <thread>1</thread>
+  <message>Start Test Case : Test Cases/Login/LoginTestCase</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="name">Test Cases/Login/LoginTestCase</property>
+  <property name="description"></property>
+  <property name="id">Test Cases/Login/LoginTestCase</property>
+  <property name="source">C:\\Trilok\\Projects\\Code\\Katalon\\Katalon-test-repository\\Test Cases\\Login\\LoginTestCase.tc</property>
+  <property name="isOptional">false</property>
+</record>
+<record>
+  <date>2018-09-20T12:21:03</date>
+  <millis>1537426263552</millis>
+  <sequence>6</sequence>
+  <level>ERROR</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Test Cases/Login/LoginTestCase has ERROR(s) because (of) java.io.FileNotFoundException: File &amp;apos;&amp;apos; does not exist</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-09-20T12:21:03</date>
+  <millis>1537426263552</millis>
+  <sequence>7</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>endTest</method>
+  <thread>1</thread>
+  <message>End Test Case : Test Cases/Login/LoginTestCase</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-20T12:21:03</date>
+  <millis>1537426263554</millis>
+  <sequence>8</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>startTest</method>
+  <thread>1</thread>
+  <message>Start Test Case : Test Cases/MaximizeBrowser</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="name">Test Cases/MaximizeBrowser</property>
+  <property name="description"></property>
+  <property name="id">Test Cases/MaximizeBrowser</property>
+  <property name="source">C:\\Trilok\\Projects\\Code\\Katalon\\Katalon-test-repository\\Test Cases\\MaximizeBrowser.tc</property>
+  <property name="isOptional">false</property>
+</record>
+<record>
+  <date>2018-09-20T12:21:03</date>
+  <millis>1537426263555</millis>
+  <sequence>9</sequence>
+  <level>ERROR</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Test Cases/MaximizeBrowser has ERROR(s) because (of) java.io.FileNotFoundException: File &amp;apos;&amp;apos; does not exist</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-09-20T12:21:03</date>
+  <millis>1537426263556</millis>
+  <sequence>10</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>endTest</method>
+  <thread>1</thread>
+  <message>End Test Case : Test Cases/MaximizeBrowser</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-20T12:21:03</date>
+  <millis>1537426263557</millis>
+  <sequence>11</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>startTest</method>
+  <thread>1</thread>
+  <message>Start Test Case : Test Cases/SaveFormTestCase</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="name">Test Cases/SaveFormTestCase</property>
+  <property name="description"></property>
+  <property name="id">Test Cases/SaveFormTestCase</property>
+  <property name="source">C:\\Trilok\\Projects\\Code\\Katalon\\Katalon-test-repository\\Test Cases\\SaveFormTestCase.tc</property>
+  <property name="isOptional">false</property>
+</record>
+<record>
+  <date>2018-09-20T12:21:03</date>
+  <millis>1537426263558</millis>
+  <sequence>12</sequence>
+  <level>ERROR</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Test Cases/SaveFormTestCase has ERROR(s) because (of) java.io.FileNotFoundException: File &amp;apos;&amp;apos; does not exist</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-09-20T12:21:03</date>
+  <millis>1537426263559</millis>
+  <sequence>13</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>endTest</method>
+  <thread>1</thread>
+  <message>End Test Case : Test Cases/SaveFormTestCase</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-09-20T12:21:03</date>
+  <millis>1537426263601</millis>
+  <sequence>14</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>endSuite</method>
+  <thread>1</thread>
+  <message>End Test Suite : Test Suites/SaveForm</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+</log>

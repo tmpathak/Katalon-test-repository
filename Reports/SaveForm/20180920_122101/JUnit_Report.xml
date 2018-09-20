@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="SaveForm" time="0" tests="0" failures="0" errors="3">
+   <testsuite name="SaveForm" tests="0" failures="0" errors="3" time="0" timestamp="2018-09-20 12:21:03" hostname="TrilokP - exIndPC20.exsilio.int" id="Test Suites/SaveForm">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Trilok\\Projects\\Code\\Katalon\\Katalon-test-repository\\Reports\\SaveForm\\20180920_122101"/>
+         <property name="logFiles" value="C:\\Trilok\\Projects\\Code\\Katalon\\Katalon-test-repository\\Reports\\SaveForm\\20180920_122101\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="TrilokP - exIndPC20.exsilio.int"/>
+         <property name="hostAddress" value="10.0.6.120"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="5.7.1.1"/>
+      </properties>
+      <testcase name="Test Cases/Login/LoginTestCase" classname="Test Cases/Login/LoginTestCase" status="ERROR">
+         <error type="ERROR" message="Test Cases/Login/LoginTestCase has ERROR(s) because (of) java.io.FileNotFoundException: File '' does not exist"/>
+         <system-out><![CDATA[2018-09-20 12:21:03 - [TEST_CASE][ERROR] - Test Cases/Login/LoginTestCase: Test Cases/Login/LoginTestCase has ERROR(s) because (of) java.io.FileNotFoundException: File '' does not exist]]></system-out>
+         <system-err><![CDATA[2018-09-20 12:21:03 - [TEST_CASE][ERROR] - Test Cases/Login/LoginTestCase: Test Cases/Login/LoginTestCase has ERROR(s) because (of) java.io.FileNotFoundException: File '' does not exist]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/MaximizeBrowser" classname="Test Cases/MaximizeBrowser" status="ERROR">
+         <error type="ERROR" message="Test Cases/MaximizeBrowser has ERROR(s) because (of) java.io.FileNotFoundException: File '' does not exist"/>
+         <system-out><![CDATA[2018-09-20 12:21:03 - [TEST_CASE][ERROR] - Test Cases/MaximizeBrowser: Test Cases/MaximizeBrowser has ERROR(s) because (of) java.io.FileNotFoundException: File '' does not exist]]></system-out>
+         <system-err><![CDATA[2018-09-20 12:21:03 - [TEST_CASE][ERROR] - Test Cases/MaximizeBrowser: Test Cases/MaximizeBrowser has ERROR(s) because (of) java.io.FileNotFoundException: File '' does not exist]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/SaveFormTestCase" classname="Test Cases/SaveFormTestCase" status="ERROR">
+         <error type="ERROR" message="Test Cases/SaveFormTestCase has ERROR(s) because (of) java.io.FileNotFoundException: File '' does not exist"/>
+         <system-out><![CDATA[2018-09-20 12:21:03 - [TEST_CASE][ERROR] - Test Cases/SaveFormTestCase: Test Cases/SaveFormTestCase has ERROR(s) because (of) java.io.FileNotFoundException: File '' does not exist]]></system-out>
+         <system-err><![CDATA[2018-09-20 12:21:03 - [TEST_CASE][ERROR] - Test Cases/SaveFormTestCase: Test Cases/SaveFormTestCase has ERROR(s) because (of) java.io.FileNotFoundException: File '' does not exist]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2018-09-20 12:21:03 - [TEST_SUITE][ERROR] - SaveForm: Test Cases/Login/LoginTestCase has ERROR(s) because (of) java.io.FileNotFoundException: File '' does not exist]]></system-out>
+      <system-err><![CDATA[2018-09-20 12:21:03 - [TEST_SUITE][ERROR] - SaveForm: Test Cases/Login/LoginTestCase has ERROR(s) because (of) java.io.FileNotFoundException: File '' does not exist]]></system-err>
+   </testsuite>
+</testsuites>

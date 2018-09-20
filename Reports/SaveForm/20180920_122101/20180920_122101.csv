@@ -1,0 +1,8 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+SaveForm,,,2018-09-20 12:21:03,2018-09-20 12:21:03,0.330s,ERROR
+,,,,,,
+Test Cases/Login/LoginTestCase,,,2018-09-20 12:21:03,2018-09-20 12:21:03,0.002s,ERROR
+,,,,,,
+Test Cases/MaximizeBrowser,,,2018-09-20 12:21:03,2018-09-20 12:21:03,0.002s,ERROR
+,,,,,,
+Test Cases/SaveFormTestCase,,,2018-09-20 12:21:03,2018-09-20 12:21:03,0.002s,ERROR
