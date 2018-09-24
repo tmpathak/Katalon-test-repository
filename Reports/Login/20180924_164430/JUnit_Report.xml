@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Login" time="6" tests="2" failures="0" errors="0">
+   <testsuite name="Login" tests="2" failures="0" errors="0" time="6" timestamp="2018-09-24 16:44:31" hostname="TrilokP - exIndPC20.exsilio.int" id="Test Suites/Login">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Trilok\\Projects\\Code\\Automation Testing Katalon Studio\\Katalon-test-repository\\Reports\\Login\\20180924_164430"/>
+         <property name="logFiles" value="C:\\Trilok\\Projects\\Code\\Automation Testing Katalon Studio\\Katalon-test-repository\\Reports\\Login\\20180924_164430\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="TrilokP - exIndPC20.exsilio.int"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="5.7.1.1"/>
+         <property name="browser" value="Chrome 69.0.3497.100"/>
+         <property name="hostAddress" value="10.0.6.120"/>
+         <property name="sessionId" value="bdb86db6f94e8482d6713542320c1c28"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/Login/LoginTestCase" classname="Test Cases/Login/LoginTestCase" status="PASSED">
+         <system-out><![CDATA[2018-09-24 16:44:31 - [TEST_CASE][PASSED] - Test Cases/Login/LoginTestCase: Test Cases/Login/LoginTestCase
+
+2018-09-24 16:44:31 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: 'http://executeautomation.com/demosite/Login.html'
+
+2018-09-24 16:44:36 - [MESSAGE][PASSED] - Browser is opened with url: 'http://executeautomation.com/demosite/Login.html'
+
+2018-09-24 16:44:36 - [TEST_STEP][PASSED] - setText: Text 'Admin' is set on object 'Object Repository/Login_OR/Page_Execute Automation/input_Login_UserName'
+
+2018-09-24 16:44:36 - [MESSAGE][PASSED] - Text 'Admin' is set on object 'Object Repository/Login_OR/Page_Execute Automation/input_Login_UserName'
+
+2018-09-24 16:44:36 - [TEST_STEP][PASSED] - setText: Text 'Admin' is set on object 'Object Repository/Login_OR/Page_Execute Automation/input_Login_Password'
+
+2018-09-24 16:44:36 - [MESSAGE][PASSED] - Text 'Admin' is set on object 'Object Repository/Login_OR/Page_Execute Automation/input_Login_Password'
+
+2018-09-24 16:44:36 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Login_OR/Page_Execute Automation/input_Login_Login' is clicked on
+
+2018-09-24 16:44:37 - [MESSAGE][PASSED] - Object: 'Object Repository/Login_OR/Page_Execute Automation/input_Login_Login' is clicked on
+
+2018-09-24 16:44:37 - [TEST_STEP][PASSED] - verifyTextPresent: Text 'Execute Automation Selenium Test Site' is present on page 
+
+2018-09-24 16:44:37 - [MESSAGE][PASSED] - Text 'Execute Automation Selenium Test Site' is present on page 
+
+2018-09-24 16:44:37 - [TEST_STEP][PASSED] - waitForPageLoad: Wait for page load successfully
+
+2018-09-24 16:44:37 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2018-09-24 16:44:37 - [MESSAGE][PASSED] - Wait for page load successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/CloseBrowser" classname="Test Cases/CloseBrowser" status="PASSED">
+         <system-out><![CDATA[2018-09-24 16:44:37 - [TEST_CASE][PASSED] - Test Cases/CloseBrowser: Test Cases/CloseBrowser
+
+2018-09-24 16:44:37 - [TEST_STEP][PASSED] - closeBrowser: Browser is closed
+
+2018-09-24 16:44:37 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2018-09-24 16:44:31 - [TEST_SUITE][PASSED] - Login: Test Cases/CloseBrowser]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>
